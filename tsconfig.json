@@ -1,0 +1,13 @@
+{
+   "compilerOptions": {
+      "esModuleInterop": true,
+      "target": "ES2015",
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "baseUrl": "./",
+      "lib": [
+         "DOM",
+         "ES2019"
+      ],
+   },
+}
