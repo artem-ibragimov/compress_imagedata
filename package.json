@@ -1,10 +1,10 @@
 {
   "name": "compress_imagedata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compress/decompress ImageData via JavaScript",
-  "directories": {
-    "bin": ""
-  },
+  "files": [
+    "bin"
+  ],
   "main": "bin/index.js",
   "scripts": {
     "build": "tsc",

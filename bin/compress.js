@@ -61,3 +61,4 @@ export function decompress(data) {
         data.splice(i, 1);
     }
 }
+//# sourceMappingURL=compress.js.map

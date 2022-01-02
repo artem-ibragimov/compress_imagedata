@@ -1,5 +1,7 @@
 {
    "compilerOptions": {
+      "declaration": true,
+      "sourceMap": true,
       "esModuleInterop": true,
       "target": "es3",
       "module": "ESNext",

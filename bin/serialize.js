@@ -9,3 +9,4 @@ export function deserialize(ser) {
     var side = Math.ceil(Math.sqrt(data.length));
     return new ImageData(data, side);
 }
+//# sourceMappingURL=serialize.js.map
